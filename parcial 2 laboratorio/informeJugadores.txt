@@ -1,0 +1,7 @@
+********************
+Informe de jugadores
+********************
+- Cantidad de jugadores mayor a 25 anios: 47
+- Cantidad de jugadores menor a 20 anios: 17
+- Cantidad de jugadores que empiecen por la letra A: 6
+- Cantidad de jugadores que nacieron en ciudad de Cordoba: 4
